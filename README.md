@@ -2,7 +2,7 @@ Scan code protocol
 ==============
 Scan code protocol for MEET.ONE    
 
-## Transfer
+## EOS Transfer
 
 ### 1.account name string
 ``` java
